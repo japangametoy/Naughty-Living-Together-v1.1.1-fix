@@ -1,0 +1,59 @@
+.notice_area{
+    padding: 0 10px;
+    align-items: center;
+    margin: auto;
+}
+
+.notice_area.nblack{
+    background-color: rgba(0, 0, 0, 0.7);
+    border: black 1px solid;
+    color: #d7d7d7;
+}
+
+.notice_area.ngray{
+    background-color: rgba(80, 80, 80, 0.7);
+    border: rgba(80, 80, 80, 1) 1px solid;
+    color: #e9e9e9;
+}
+
+.notice_area.nwhite{
+    background-color: rgba(255, 255, 255, 0.7);
+    border: rgba(255, 255, 255, 1) 1px solid;
+    color: #333333;
+}
+
+.notice_area.norange{
+    background-color: rgba(218, 124, 12, 0.7);
+    border: rgba(218, 124, 12, 1) 1px solid;
+    color: #fef4e9;
+}
+
+.notice_area.nred{
+    background-color: rgba(152, 12, 16, 0.7);
+    border: rgba(152, 12, 16, 1) 1px solid;
+    color: #faddde;
+}
+
+.notice_area.nblue{
+    background-color: rgba(0, 118, 163, 0.7);
+    border: rgba(0, 118, 163, 1) 1px solid;
+    color: #d9eef7;
+}
+
+.notice_area.nrosy{
+    background-color: rgba(183, 57, 72, 0.7);
+    border: rgba(183, 57, 72, 1) 1px solid;
+    color: #fae7e9;
+}
+
+.notice_area.ngreen{
+    background-color: rgba(83, 131, 18, 0.7);
+    border: rgba(83, 131, 18, 1) 1px solid;
+    color: #e8f0de;
+}
+
+.notice_area.npink{
+    background-color: rgba(210, 114, 158, 0.7);
+    border: rgba(210, 114, 158, 1) 1px solid;
+    color: #feeef5;
+}
