@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/BG_Black.png"  ]
+[preload  storage="./data/bgimage/玄関02.png"  ]
+[preload  storage="./data/bgimage/玄関01.png"  ]
+[preload  storage="./data/bgimage/BG00.png"  ]
+[preload  storage="./data/bgimage/BG01.png"  ]
+[return]

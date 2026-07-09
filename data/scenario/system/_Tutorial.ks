@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/BG00.png"  ]
+[preload  storage="./data/fgimage/default/矢印.png"  ]
+[preload  storage="./data/bgimage/ライブチュートリアル.png"  ]
+[preload  storage="./data/fgimage/default/ライブ0202.png"  ]
+[preload  storage="./data/bgimage/ライブチュートリアル2.png"  ]
+[preload  storage="./data/bgimage/配信チュートリアル.png"  ]
+[preload  storage="./data/fgimage/default/配信カード0302.png"  ]
+[return]

@@ -1,0 +1,5 @@
+[preload  storage="./data/fgimage/chara/19/キャラ待機72.png"  ]
+[preload  storage="./data/bgimage/白背景.png"  ]
+[preload  storage="./data/fgimage/chara/41/キャラ待機A11アニメ.png"  ]
+[preload  storage="./data/fgimage/chara/42/テレビ外だし.png"  ]
+[return]

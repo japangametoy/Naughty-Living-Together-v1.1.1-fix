@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/BG00.png"  ]
+[preload  storage="./data/fgimage/chara/8/初登場01.png"  ]
+[preload  storage="./data/fgimage/chara/25/イベントカット02ダンスレ.png"  ]
+[preload  storage="./data/fgimage/chara/25/イベントカット01歌レ.png"  ]
+[return]

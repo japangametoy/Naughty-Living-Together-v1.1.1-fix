@@ -1,0 +1,7 @@
+[preload  storage="./data/fgimage/chara/10/正上アニメ挿入51.png"  ]
+[preload  storage="./data/fgimage/chara/10/正上アニメ52.png"  ]
+[preload  storage="./data/fgimage/chara/10/正上アニメ53.png"  ]
+[preload  storage="./data/fgimage/chara/10/正上アニメ51.png"  ]
+[preload  storage="./data/fgimage/chara/10/正上アニメ射精51.png"  ]
+[preload  storage="./data/bgimage/BG_Black.png"  ]
+[return]

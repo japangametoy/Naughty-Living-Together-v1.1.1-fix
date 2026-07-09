@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/BG_Black.png"  ]
+[preload  storage="./data/fgimage/chara/21/風俗01.png"  ]
+[preload  storage="./data/fgimage/chara/21/風俗カット03.png"  ]
+[preload  storage="./data/fgimage/chara/21/風俗カット02.png"  ]
+[return]
